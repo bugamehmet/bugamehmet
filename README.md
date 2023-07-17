@@ -1,4 +1,3 @@
-Tabii, aşağıda örnek bir README dosyası bulunmaktadır:
 
 # 👋 Merhaba, Ben @bugamehmet
 
