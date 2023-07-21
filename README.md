@@ -3,14 +3,9 @@
 
 ## 👀 Hakkımda
 - HTML, CSS, JS VE NODEJS ile FULL-STACK WEB GELİŞTİRME ÜZERİNE ÇALIŞIYORUM.
-- 
 - Yeni teknolojileri öğrenmeyi ve kendimi geliştirmeyi seviyorum.
 
-
-## İşbirliği Yapmak İstediğim Konular
-
 - Web uygulamaları veya API geliştirme projelerinde işbirliği yapmak isterim.
-- 
 - İlginç ve yenilikçi projelerde yer almak için fırsat arıyorum.
 
 ## 📫 Bana Ulaşabilirsiniz
