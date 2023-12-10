@@ -3,5 +3,5 @@
 
 
 
-- E-mail: [email protected](bugamehmetcan@gmail.com)
-- LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/bugamehmetcan)
+- E-mail: (bugamehmetcan@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/bugamehmetcan)
